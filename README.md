@@ -37,3 +37,10 @@ c.python is thop
 ## how to link videos
 
 [click here to access youtube] {https://www.youtube.com/watch?v=bCk1-llBaHE}
+## how to create a table
+## My profile
+|NAME|Email|Mobile|Profession|Location|
+|----|-----|------|----------|--------|
+|Chandu|chennuchandu392@gmail.com|012345679|Student|Visakhapatnam|
+|Hello|
+
